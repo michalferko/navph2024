@@ -61,7 +61,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!136 &4838529143165490047
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -69,7 +69,7 @@ CapsuleCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5777074909069864263}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 259d8abc806f5e4469e9ffc66ad3062a, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a88527ecfe60f8e44ac3d9efb707a594, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifetime: 2
+  lifetime: 20
   explosionPrefab: {fileID: 7897124102220435249, guid: 16b8016fb756c474d8f98cc7902e14f6,
     type: 3}
 --- !u!1001 &6204642179998669053
