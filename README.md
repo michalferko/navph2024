@@ -17,7 +17,7 @@ Some important files of note:
 * `.editorconfig` - makes sure coding standards for C# are unified everywhere. If you are using VSCode, install  [EditorConfig extension for VSCode](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ## Assets
-Use some external (fully free) assets:
+Uses some external (fully free) assets:
 * The first person character controller from [Starter Assets: Character Controllers | URP](https://assetstore.unity.com/packages/essentials/starter-assets-character-controllers-urp-267961)
 * Explosion prefab extracted from Unity's deprecated [Standard Assets 2018.4](https://assetstore.unity.com/packages/p/standard-assets-2018-4-check-out-starter-assets-first-person-thi-32351)
 * [Frag Grenade DM51A1](https://assetstore.unity.com/packages/3d/props/weapons/frag-grenade-dm51a1-8556)
