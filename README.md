@@ -7,6 +7,7 @@ More info on the course website: https://gamedev.flamingchain.com/
 There's a separate folder for each lecture:
 * Lecture 04 - Unity Scripting - [Assets/Lecture04/](Assets/Lecture04/)
 * Lecture 06 - Game Physics - [Assets/Lecture06/](Assets/Lecture06/)
+* Lecture 07 - UI & Animation - [Assets/Lecture07/](Assets/Lecture07/)
 
 ## Project Setup
 Derived from Unity's basic 3D URP template.
